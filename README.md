@@ -1,5 +1,6 @@
 # Egg-Catcher-Game 
-<img width="1000" height="543" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/97df9fcf-dd5a-413f-845a-231698f38f4a" />
+<img width="998" height="539" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/eab334ef-2308-44a0-9116-ea863cd0f487" />
+
 
 # A fun and interactive Egg Catcher Game built using Python’s Tkinter library. Catch as many falling eggs as you can using the basket before they hit the ground!
 
